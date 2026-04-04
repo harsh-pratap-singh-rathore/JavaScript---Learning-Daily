@@ -8,7 +8,7 @@ The curriculum is organized into chapters, each focusing on key concepts:
 - **Chapter 1**: 🧱 Fundamentals & Data Types
 - **Chapter 2**: 🏗️ Objects, Arrays & Data Structures
 - **Chapter 3**: 🏎️ Control Flow & Logic
-- **Chapter 4**: 🗺️ Advanced Collections & Maps
+- **Chapter 4**: 🗺️ Maps, Filter, Reduce & Advanced Iteration
 
 ## ⚡ Daily Progress
 > "Consistency is the key to mastery."
