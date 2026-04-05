@@ -9,6 +9,7 @@ The curriculum is organized into chapters, each focusing on key concepts:
 - **Chapter 2**: 🏗️ Objects, Arrays & Data Structures
 - **Chapter 3**: 🏎️ Control Flow & Logic
 - **Chapter 4**: 🗺️ Maps, Filter, Reduce & Advanced Iteration
+- **Chapter 5**: 🌐 DOM Manipulation & Element Management
 
 ## ⚡ Daily Progress
 > "Consistency is the key to mastery."
