@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>DOM</title>
+</head>
+
+<body>
+    <div class="black">
+        <h1 id="1">DOM LEARNING</h1>
+        <p>Hello here i will start DOM</p>
+    </div>
+</body>
+<script>
+    const d = document.querySelector('div')
+    console.log(d);
+    const p = d.childNodes
+    const arr = Array.from(p)
+    console.log(p);
+    // p.style.backgroundColor = 'green'
+    // const c = p.nextElementSibling
+    // console.log(c);
+    console.log(`Array = ${arr}`);
+    // c[0].style.backgroundColor = 'red'
+    // c[1].style.backgroundColor = 'blue'
+
+
+</script>
+
+</html>
