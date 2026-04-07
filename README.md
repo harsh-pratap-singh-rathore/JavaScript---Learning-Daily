@@ -30,20 +30,27 @@ Explore my hand-on applications built while learning the DOM:
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <h3>🎨 Color Changer</h3>
       <p>Switch themes dynamically using DOM events.</p>
       <a href="./Projects/01_Color_Changer/">View Code</a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <h3>📏 BMI Calculator</h3>
       <p>Check your health stats with a sleek calculator.</p>
       <a href="./Projects/02_BMI_Calculator/">View Code</a>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <h3>⏰ Digital Clock</h3>
       <p>A real-time clock with a glowing neon design.</p>
       <a href="./Projects/03_CLOCK/">View Code</a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎯 Guess Number</h3>
+      <p>A fun and interactive number guessing game.</p>
+      <a href="./Projects/04_Guess_Number/">View Code</a>
     </td>
   </tr>
 </table>
