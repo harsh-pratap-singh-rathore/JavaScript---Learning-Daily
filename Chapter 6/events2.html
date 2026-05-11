@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Hello!</h1>
+    <h2>Harsh Rathore</h2>
+    <button id="stop">Stop</button>
+</body>
+<script>
+    const changename = () => {
+        document.querySelector("h1").innerHTML = "I'm Harsh Rathore"
+    }
+    const stop = () => {
+        document.getElementById("stop").addEventListener("click", function () {
+            clearTimeout(settime);
+            console.log("Stopped")
+            clearInterval(ins)
+        })
+    }
+    const settime = setTimeout(changename, 2000);
+    stop();
+
+    const dointervel = () => {
+        document.querySelector("h2").innerHTML = "Heeeyyy!";
+        console.log("Done !");
+
+    }
+    const ins = setInterval(dointervel, 2000)
+
+</script>
+
+</html>

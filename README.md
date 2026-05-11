@@ -22,6 +22,7 @@ The curriculum is organized into chapters and hands-on projects, each focusing o
 - [x] **Chapter 3**: 🏎️ Control Flow & Logic
 - [x] **Chapter 4**: 🗺️ Maps, Filter, Reduce & Advanced Iteration
 - [x] **Chapter 5**: 🌐 DOM Manipulation & Element Management
+- [x] **Chapter 6**: ⚡ Events & Async Operations
 
 ---
 
@@ -51,6 +52,18 @@ Explore my hand-on applications built while learning the DOM:
       <h3>🎯 Guess Number</h3>
       <p>A fun and interactive number guessing game.</p>
       <a href="./Projects/04_Guess_Number/">View Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌈 Unlimited Colors</h3>
+      <p>Dynamic background color generator using intervals.</p>
+      <a href="./Projects/05_Unlimited_Colors/">View Code</a>
+    </td>
+    <td align="center" width="50%">
+      <h3>⌨️ Keyboard Check</h3>
+      <p>Interactive tool to capture keydown events and key codes.</p>
+      <a href="./Projects/06_Keyboard_Check/">View Code</a>
     </td>
   </tr>
 </table>
