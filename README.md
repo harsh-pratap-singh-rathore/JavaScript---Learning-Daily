@@ -23,6 +23,7 @@ The curriculum is organized into chapters and hands-on projects, each focusing o
 - [x] **Chapter 4**: 🗺️ Maps, Filter, Reduce & Advanced Iteration
 - [x] **Chapter 5**: 🌐 DOM Manipulation & Element Management
 - [x] **Chapter 6**: ⚡ Events & Async Operations
+- [x] **Chapter 7**: 🧬 Advanced JS: OOPs, Prototypes & Closures
 
 ---
 
@@ -73,7 +74,9 @@ Explore my hand-on applications built while learning the DOM:
 ## ⚡ Daily Progress
 > "Consistency is the key to mastery."
 
-I'm currently mastering the **DOM API**—learning how to create elements dynamically, handle events, and bridge the gap between structure and logic.
+**✅ CORE JAVASCRIPT COMPLETED ON 13-MAY-2026!** 🎉
+
+I have officially completed the Core JavaScript modules, diving deep into advanced concepts like Object-Oriented Programming (OOP), Prototypes, Lexical Scoping, and Closures! The foundation is set, and it's time to build bigger things.
 
 ---
 

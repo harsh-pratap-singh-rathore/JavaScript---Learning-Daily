@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Document</title>
+</head>
+
+<body>
+    <button id="click">Click Me</button>
+</body>
+<script>
+    class click {
+        constructor(server) {
+            this.server = server
+
+            document.getElementById("click")
+                .addEventListener('click', this.displayCounter.bind(this))
+        }
+        displayCounter() {
+            console.log("clicked on server");
+            console.log("Helooo");
+        }
+    }
+
+    const btn = new click("s1")
+
+</script>
+
+</html>

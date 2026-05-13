@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>API Request</h1>
+    <div>
+        <h2>Name :</h2>
+        <h2>Photo :</h2>
+    </div>
+    <button id="getdata">Get Data</button>
+</body>
+<script>
+    let data
+    document.querySelector('#getdata').addEventListener('click', () => {
+        const requrl = 'https://api.github.com/users/harsh-pratap-singh-rathore'
+        const xhr = new XMLHttpRequest()
+        xhr.open('GET', requrl)
+        xhr.onreadystatechange = () => {
+            console.log(xhr.readyState);
+            if (xhr.readyState == 4) {
+                data = JSON.parse(xhr.responseText)
+                console.log(data);
+                console.log(data.name);
+                document.querySelectorAll('h2')[0].innerHTML = `Name : ${data.name}`
+                document.querySelectorAll('h2')[1].innerHTML = `Photo : <img src="${data.avatar_url}">`
+
+            }
+        }
+
+        xhr.send()
+    })
+
+</script>
+
+</html>
