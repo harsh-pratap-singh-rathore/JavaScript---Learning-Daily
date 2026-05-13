@@ -71,12 +71,26 @@ Explore my hand-on applications built while learning the DOM:
 
 ---
 
-## ⚡ Daily Progress
+## 🏆 Journey & Achievements
 > "Consistency is the key to mastery."
 
-**✅ CORE JAVASCRIPT COMPLETED ON 13-MAY-2026!** 🎉
+### 📅 The Timeline: 46 Days of Code
+- **Start Date:** March 29, 2026
+- **Completion Date:** May 13, 2026
+- **Time Taken:** Exactly **46 Days** to go from basics to advanced! 🚀
 
-I have officially completed the Core JavaScript modules, diving deep into advanced concepts like Object-Oriented Programming (OOP), Prototypes, Lexical Scoping, and Closures! The foundation is set, and it's time to build bigger things.
+### 🧠 Topics Mastered In-Depth:
+1. **Core Fundamentals:** Variables, memory management (Stack/Heap), and data types.
+2. **Data Structures:** Deep dive into Arrays, Objects, JSON, and complex nesting.
+3. **Control & Iteration:** `map`, `filter`, `reduce`, and complex logical flows.
+4. **DOM Mastery:** Creating, injecting, and managing HTML elements on the fly.
+5. **Interactive UIs:** Event Listeners, Bubbling, Capturing, and complex interactions.
+6. **Async JavaScript:** APIs (`fetch`, `XMLHttpRequest`), Promises, and `async/await`.
+7. **Advanced JS (OOPs):** Classes, `this` binding (`call`, `bind`), Prototypes, and Getters/Setters.
+8. **Under the Hood:** Lexical Scoping and Closures.
+
+**✅ CORE JAVASCRIPT OFFICIALLY CONQUERED!** 🎉
+The foundation is rock solid. Now, it's time to build bigger, real-world applications.
 
 ---
 
