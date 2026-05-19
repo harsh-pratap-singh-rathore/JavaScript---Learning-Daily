@@ -71,6 +71,26 @@ Explore my hand-on applications built while learning the DOM:
 
 ---
 
+## 🌟 Featured Capstone Projects
+Step up to more advanced, real-world applications featuring asynchronous API integration, state management, and luxury design aesthetics:
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="100%">
+        <br>
+        <img src="https://img.shields.io/badge/Aura_Weather-Premium_Aesthetic-6366f1?style=for-the-badge&logo=icloud&logoColor=white" />
+        <h3>🌤️ Aura Weather Portal</h3>
+        <p>A highly premium, glassmorphic atmospheric forecast application. Fetches real-time weather logs dynamically from the WeatherAPI, features modern typography (Outfit & Plus Jakarta Sans), smooth CSS-animated transitions, and a beautifully adaptive card UI with dynamic local metrics updates.</p>
+        <a href="./Projects/Weather%20App/"><b>Browse Code</b></a> | <a href="./Projects/Weather%20App/weather.html"><b>Launch App</b></a>
+        <br><br>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🏆 Journey & Achievements
 > "Consistency is the key to mastery."
 
