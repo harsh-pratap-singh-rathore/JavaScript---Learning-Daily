@@ -17,7 +17,7 @@ async function getweather(city) {
     try {
         const response = await fetch(url);
         const data = await response.json();
-        console.log(data.current.temp_c);
+        console.log(data.current.temp_c); 
         document.getElementById("temp-value").innerText = data.current.temp_c;
         document.getElementById("city-name").innerText = city;
         document.getElementById("feels-like-val").innerText = data.current.feelslike_c;
