@@ -16,13 +16,15 @@
 ## 📚 Repository Structure
 The curriculum is organized into chapters and hands-on projects, each focusing on key concepts from **Chai aur Code**:
 
-### 🧠 Modules
+### 🧠 Modules & Projects
 - [x] **Chapter 1**: 🧱 Fundamentals & Data Types
 - [x] **Chapter 2**: 🏗️ Objects, Arrays & Data Structures
 - [x] **Chapter 3**: 🏎️ Control Flow & Logic
 - [x] **Chapter 4**: 🗺️ Maps, Filter, Reduce & Advanced Iteration
 - [x] **Chapter 5**: 🌐 DOM Manipulation & Element Management
+  - 📂 *Projects:* [🎨 Color Changer](./Projects/01_Color_Changer/), [📏 BMI Calculator](./Projects/02_BMI_Calculator/), [⏰ Digital Clock](./Projects/03_CLOCK/), [🎯 Guess Number](./Projects/04_Guess_Number/)
 - [x] **Chapter 6**: ⚡ Events & Async Operations
+  - 📂 *Projects:* [🌈 Unlimited Colors](./Projects/05_Unlimited_Colors/), [⌨️ Keyboard Check](./Projects/06_Keyboard_Check/), [🌤️ Aura Weather Portal](./Projects/Weather%20App/), [📝 Persistent To-Do App](./Projects/TO-DO%20App/)
 - [x] **Chapter 7**: 🧬 Advanced JS: OOPs, Prototypes & Closures
 
 ---
