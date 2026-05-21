@@ -73,6 +73,10 @@ Explore my hand-on applications built while learning the DOM:
 
 ---
 
+## Other Projects
+- [🎬 Movie Search](./Projects/Movie%20Search/) — Search movies by title using a public API. See the project README for run instructions.
+
+
 ## 🌟 Featured Capstone Projects
 Step up to more advanced, real-world applications featuring asynchronous API integration, state management, and luxury design aesthetics:
 
