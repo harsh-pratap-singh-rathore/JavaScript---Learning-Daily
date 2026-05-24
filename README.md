@@ -26,6 +26,8 @@ The curriculum is organized into chapters and hands-on projects, each focusing o
 - [x] **Chapter 6**: ⚡ Events & Async Operations
   - 📂 *Projects:* [🌈 Unlimited Colors](./Projects/05_Unlimited_Colors/), [⌨️ Keyboard Check](./Projects/06_Keyboard_Check/), [🌤️ Aura Weather Portal](./Projects/Weather%20App/), [📝 Persistent To-Do App](./Projects/TO-DO%20App/)
 - [x] **Chapter 7**: 🧬 Advanced JS: OOPs, Prototypes & Closures
+- [x] **LeetCode Practice**: 🧠 Algorithmic Logic & Problem Solving
+  - 📂 *Solved Problems:* [Two Sum](./Leet%20Code/check.js) | [Palindrome Number](./Leet%20Code/palindrome.js)
 
 ---
 
@@ -122,6 +124,7 @@ Step up to more advanced, real-world applications featuring asynchronous API int
 6. **Async JavaScript:** APIs (`fetch`, `XMLHttpRequest`), Promises, and `async/await`.
 7. **Advanced JS (OOPs):** Classes, `this` binding (`call`, `bind`), Prototypes, and Getters/Setters.
 8. **Under the Hood:** Lexical Scoping and Closures.
+9. **Algorithmic Problem Solving (LeetCode):** Started practicing coding challenges to sharpen logical reasoning, problem-solving skills, and time/space complexity analysis.
 
 **✅ CORE JAVASCRIPT OFFICIALLY CONQUERED!** 🎉
 The foundation is rock solid. Now, it's time to build bigger, real-world applications.
